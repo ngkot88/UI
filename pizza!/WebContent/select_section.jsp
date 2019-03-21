@@ -3,12 +3,57 @@
 <section>
 <div id="table_box">
 <table id="select_table">
-<tr>
-	<th></th>
-</tr>
-<tr>
-	<td>매출전표번호</td><td>지점</td><td>판매일자</td><td>피자코드</td><td>피자명</td><td>판매수량</td><td>매출액</td>
-</tr>
+	<tr>
+		<th colspan="7">통합매출현황조회</th>
+	</tr>
+	<tr>
+		<th>매출전표번호</th><th>지점</th><th>판매일자</th><th>피자코드</th><th>피자명</th><th>판매수량</th><th>매출액</th>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>30000</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>10000</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>99999</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>30000</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>87687</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>57678</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>87656</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>23786</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>54685</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>32753</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>25825</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>15616</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>15615</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>15615</td>
+	</tr>
+	<tr>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>15612</td>
+	</tr>
 
 </table>
 </div>

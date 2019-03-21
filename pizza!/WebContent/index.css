@@ -14,4 +14,13 @@ footer{height:40px; text-align:center; line-height:40px; background-color:orange
 #serch_table td:first-child{text-align:center;}
 #serch_table td>input, select{margin-left:10px;}
 
-#select_table{width:1000px; height:800px;}
+#select_table{width:1000px; height:800px; margin:0 auto;}
+#select_table td{border:1px solid black; text-align:center;}
+#select_table tr>td:last-child{text-align:right;}
+#select_table tr>th{border:1px solid black; }
+#select_table tr:first-child > th:first-child{border:none;}
+
+#jijum_table{margin:0 auto; margin-top:150px;}
+#jijum_table td{border:1px solid black; text-align:center; width:170px;}
+#jijum_table th{height:100px; font-size:25px;}
+#jijum_table tr:nth-child(3) > td:nth-child(3){text-align:right;}
