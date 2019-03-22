@@ -1,0 +1,26 @@
+@charset "UTF-8";
+*{margin:0px; padding:0px}
+#wrap{width:1280px; height:1200px; margin : 0 auto;}
+header{width:1280px; height:150px; text-align:center; line-height:150px; background-color:blue; color:white;}
+nav{height:70px; background-color:skyblue;}
+ul{width:650px; float:left;}
+li{list-style:none; width:130px; height:70px; line-height:70px; text-align:center; float:left;}
+a{text-decoration:none; color:white;}
+section{height:940px; background-color:gray;}
+footer{height:40px; text-align:center; line-height:40px; background-color:orange}
+#table_box{width:1280px; height:940px; float:left; margin:0 auto;}
+#serch_table{width:500px;; height:400px;; margin:0 auto; border:1px solid black; margin-top:200px;}
+#serch_table td{border:1px solid black;}
+#serch_table td:first-child{text-align:center;}
+#serch_table td>input, select{margin-left:10px;}
+
+#select_table{width:1000px; height:800px; margin:0 auto;}
+#select_table td{border:1px solid black; text-align:center;}
+#select_table tr>td:last-child{text-align:right;}
+#select_table tr>th{border:1px solid black; }
+#select_table tr:first-child > th:first-child{border:none;}
+
+#jijum_table{margin:0 auto; margin-top:150px;}
+#jijum_table td{border:1px solid black; text-align:center; width:170px;}
+#jijum_table th{height:100px; font-size:25px;}
+#jijum_table tr:nth-child(3) > td:nth-child(3){text-align:right;}
